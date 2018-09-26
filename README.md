@@ -67,10 +67,11 @@
 
 ## What else?
 
-* [Learn mor about Microservices](https://microservices.io/index.html) - A great resource to learn more about microservices and how to apply different patterns
+* [Learn more about Microservices](https://microservices.io/index.html) - A great resource to learn more about microservices and how to apply different related patterns
 * [REST Api Tutorial](https://www.restapitutorial.com/) - Get some basic knowledge about building RESTApis
-* [Hack The Box](https://www.hackthebox.eu/) - Penetration testing Labs
+* [Hack The Box](https://www.hackthebox.eu/) - Penetration testing labs
 * [Online Regex Tester](https://regex101.com/) - Test your Regex
-* [Katacode](https://www.katacoda.com/) - Interactive leanring platform for software engineers (e.g. Docker, Kubernetes)
-* [gitignore](https://www.gitignore.io/) - Create usefule .gitignore files
+* [Katacode](https://www.katacoda.com/) - Interactive learning platform for software engineers (e.g. Docker, Kubernetes)
+* [gitignore](https://www.gitignore.io/) - Create useful .gitignore files
+* [Code Smells](https://blog.codinghorror.com/code-smells/) - Recognize smells and refactor
 
