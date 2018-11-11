@@ -29,18 +29,25 @@
 * [Awesome Go](https://awesome-go.com/) - Curated list of awesome Go libraries
 
 
-## Databases
+## Databases / Caches
 
 * [DB-Engines](https://db-engines.com/de/) - Collection and ranking of different DBMSs
-* [MySQL](https://www.mysql.com/de/) - SQL datbase
+* [MySQL](https://www.mysql.com/de/) - SQL database 
+* [MariaDB](https://mariadb.org/) - Open Source RDBMS
+* [PostgreSQL](https://www.postgresql.org/) - Open Source relational database 
 * [MongoDB](https://www.mongodb.com/) - A document database with scalability
 * [ArangoDB](https://www.arangodb.com/) - A NoSQL, Graph and key-value based high availability database
+* [RethinkDB](https://www.rethinkdb.com/) - Realtime, scalable JSON-based database
+* [Apache CouchDB](http://couchdb.apache.org/) - Reliable, multi-master JSON-based database
 * [Neo4j](https://neo4j.com/) - A Graph based database
-* [Cassandra](http://cassandra.apache.org/) - Scalability and high-availability database
+* [OrientDB](https://orientdb.com/) - Multi-model graph database
+* [Apache Cassandra](http://cassandra.apache.org/) - Scalability and high-availability database
 * [Elasticsearch](https://www.elastic.co/de/products/elasticsearch) - A distributed REST-based search- and analytic-engine
 * [Redis](https://redis.io/) - An in-memory datastructure store (e.g. used as cache, database, ...)
 * [Memcached](https://memcached.org/) - Open source distributed memory object caching system
-* [Kafka](https://kafka.apache.org/) - A distributed streaming platform (not really a "database")
+* [Apache Kafka](https://kafka.apache.org/) - A distributed streaming platform (not really a "database")
+* [RabbitMQ](https://www.rabbitmq.com/) - Messaging Broker implementing the "Advanced Message Queuing Protocol"
+* [Apache Ignite](https://ignite.apache.org/index.html) - Database and in-memory caching as distributed services
 
 ## Specifications
 
