@@ -43,7 +43,7 @@
 * [OrientDB](https://orientdb.com/) - Multi-model graph database
 * [Apache Cassandra](http://cassandra.apache.org/) - Scalability and high-availability database
 * [Elasticsearch](https://www.elastic.co/de/products/elasticsearch) - A distributed REST-based search- and analytic-engine
-* [Couchbase](https://www.couchbase.com/) - A scalable, sepcialized for the cloud NoSQL database
+* [Couchbase](https://www.couchbase.com/) - A scalable NoSQL database specialized for the cloud nad MDS
 * [Redis](https://redis.io/) - An in-memory datastructure store (e.g. used as cache, database, ...)
 * [Memcached](https://memcached.org/) - Open source distributed memory object caching system
 * [Apache Kafka](https://kafka.apache.org/) - A distributed streaming platform (not really a "database")
