@@ -12,6 +12,7 @@
 * [Micronaut](http://micronaut.io/) - Full-stack framework for building microservices
 * [Atomix](https://atomix.io/) - A reactive framework for building distributed systems
 * [Vert.x](https://vertx.io/) - Toolkit for building reactive applications
+* [Speedment](https://www.speedment.com/) - Stream based ORM with in-JVM-memory acceleration
 
 ### Web-based
 
