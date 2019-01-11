@@ -84,4 +84,6 @@
 * [Katacode](https://www.katacoda.com/) - Interactive learning platform for software engineers (e.g. Docker, Kubernetes)
 * [gitignore](https://www.gitignore.io/) - Create useful .gitignore files
 * [Code Smells](https://blog.codinghorror.com/code-smells/) - Recognize smells and refactor
+* [Regex101](https://regex101.com/) - Online Regex tester
+* [ShieldsIO](https://shields.io/) - Badges for everyone
 
